@@ -1,3 +1,9 @@
+Note: this code is from
+https://github.com/wix/react-native-calendars/
+This publish it is necessary to my personal use until the original project upgrade code:
+https://github.com/wix/react-native-calendars/pull/601/files
+
+
 # React Native Calendars ✨ 🗓️ 📆
 
 [![Version](https://img.shields.io/npm/v/react-native-calendars.svg)](https://www.npmjs.com/package/react-native-calendars)

@@ -1,5 +1,5 @@
 {
-  "name": "react-native-calendars",
+  "name": "react-native-calendars-custom",
   "version": "1.20.0",
   "main": "src/index.js",
   "description": "React Native Calendar Components",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wix/react-native-calendars"
+    "url": "git+https://github.com/douglasofreitas/react-native-calendars"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
